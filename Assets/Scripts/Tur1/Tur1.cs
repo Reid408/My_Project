@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 
 public class Tur1 : MonoBehaviour
@@ -20,7 +20,4 @@ public class Tur1 : MonoBehaviour
     {
         Anim.SetTrigger("Base Layer.Idle");
     }
-
-
 }
-
